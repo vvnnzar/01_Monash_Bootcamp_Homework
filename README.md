@@ -36,7 +36,6 @@ Your project structure should look mirror:
 /index.html
 ReadMe.md
 
-
 ### Tests
 Website will load without error
 All navigation bar options will hyperlink the user to the correct section of the page
@@ -51,19 +50,16 @@ To update the project with latest code:
 4. Commit files using command git commit -m "My commit message"
 5. Push files to gitlab main branch using command git push
 
-
 ### Built With
 
 * Lack of knowledge :) 
-
 
 ### Versioning
 
 Major Release 
 Minor Release
 
-
-## License
+### License
 
 This project is licensed under:
 Made with ❤️️ by Horiseon
